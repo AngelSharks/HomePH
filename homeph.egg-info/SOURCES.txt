@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+homeph/__init__.py
+homeph/ph_sensor.py
+homeph.egg-info/PKG-INFO
+homeph.egg-info/SOURCES.txt
+homeph.egg-info/dependency_links.txt
+homeph.egg-info/requires.txt
+homeph.egg-info/top_level.txt
+tests/test_ph_sensor.py

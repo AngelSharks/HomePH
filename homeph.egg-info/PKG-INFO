@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: homeph
+Version: 0.1.0
+Summary: WiFi Home pH test control
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+
+# HomePH
+WiFI Home PH test control
